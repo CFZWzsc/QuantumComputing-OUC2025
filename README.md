@@ -2,9 +2,9 @@
 A  repository for QC, especially OUCer.
 基于PyQpanda3.
 
-Folder:
+Common Folder:
 1. CommonSingleGates.ipynb
-    包含泡利门、H门、R旋转门。
+    包含泡利门、H门、R旋转门、S门。
 2. CommonMutilGates.ipynb
     包含CR门、SWAP门、CNOT门。
 3. BasicApplication.ipynb
